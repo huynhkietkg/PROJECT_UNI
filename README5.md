@@ -25,10 +25,10 @@
 4.Thay đổi ảnh:
 -Học cách chỉnh sửa hoặc thay đổi nội dung ảnh dựa trên các kỹ thuật xử lý ảnh đã học.
 # Kỹ thuật áp dụng:
-Gán nhãn ảnh:Connected Component Labeling
+Gán nhãn ảnh: Connected Component Labeling
 
-Phân vùng ảnh theo Region:Region-based Segmentation
+Phân vùng ảnh theo Region: Region-based Segmentation
 
-Dò tìm cạnh:Sobel Filter,dò tìm cạnh theo chiều dọc có thể sử dụng kernel Sobel riêng cho hướng dọc.
+Dò tìm cạnh: Sobel Filter,dò tìm cạnh theo chiều dọc có thể sử dụng kernel Sobel riêng cho hướng dọc.
 
-Xác định góc của đối tượng:Sử dụng các kỹ thuật như tính gradient hoặc phân tích đặc trưng hình học để xác định hướng của đối tượng.
+Xác định góc của đối tượng: Sử dụng các kỹ thuật như tính gradient hoặc phân tích đặc trưng hình học để xác định hướng của đối tượng.
